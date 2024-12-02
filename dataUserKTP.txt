@@ -1,0 +1,54 @@
+----------------------------------------------------------------------------------------
+Provinsi             : DAERAH ISTIMEWA YOGYAKARTA
+Kabupaten            : BANTUL
+NIK                  : 386508276076023
+Nama                 : ANGGER TIRTA TETALEN MUYKTI
+Tempat Lahir         : YOGYTAKARTA
+Tanggal Lahir        : 6/9/2003
+Jenis Kelamin        : Laki-laki
+Golongan Darah       : O
+Alamat               : JL.MASJID LABBAIK
+RT/RW                : 23/65
+Desa                 : NGESTIHARJO
+RT/RW                : KASIHAN
+
+Agama                : Islam
+Status               : Belum Kawin
+Pekerjaan            : MAHASISWA
+Tanggal Pembuatan KTP: 29/12/2020
+----------------------------------------------------------------------------------------
+Provinsi             : DAERAH ISTIMEA YOGYTAKARTA
+Kabupaten            : BANTUL
+NIK                  : 2200012408738
+Nama                 : SIPASFI
+Tempat Lahir         : BATU
+Tanggal Lahir        : 12/2/2001
+Jenis Kelamin        : Laki-laki
+Golongan Darah       : O
+Alamat               : JL.MASJID NABAWI
+RT/RW                : 43/45
+Desa                 : NGESTIPURA
+RT/RW                : DANGKE
+
+Agama                : Islam
+Status               : Kawin
+Pekerjaan            : BURUH
+Tanggal Pembuatan KTP: 9/12/2017
+----------------------------------------------------------------------------------------
+Provinsi             : KALIMANTAN TENGAH
+Kabupaten            : KOTAWARINGIN TIMUR
+NIK                  : 620206050408000005
+Nama                 : FARRAS FERNANDA
+Tempat Lahir         : PONTIANAK
+Tanggal Lahir        : 5/8/2000
+Jenis Kelamin        : Laki-laki
+Golongan Darah       : O
+Alamat               : JL. KAPT. MULYONO KOMP. GRIYA SETIA MINIMALIS BLOK A NO. 4, SAMPIT
+RT/RW                : 045/007
+Desa                 : KETAPANG
+RT/RW                : MB KETAPANG
+
+Agama                : Islam
+Status               : Belum Kawin
+Pekerjaan            : MAHASISWA
+Tanggal Pembuatan KTP: 25/8/2020

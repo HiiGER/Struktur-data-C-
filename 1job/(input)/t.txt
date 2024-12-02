@@ -1,0 +1,35 @@
+void searchNamaBarang(const std::string &keyword) {
+  bool found = false;
+  system("clear");
+  std::cout << "======================================================="
+            << std::endl;
+  std::cout << "Hasil pencarian untuk  " << keyword << "  :" << std::endl;
+  for (const auto &item : items) {
+    if (item.nama.find(keyword) != std::string::npos) {
+      found = true;
+      std::cout << "======================================================="
+                << std::endl;
+      std::cout << item.nama << " - Kategori barang : " << item.kategori
+                << std::endl;
+      // Tampilkan atribut lainnya jika diperlukan
+      std::cout << "======================================================="
+                << std::endl
+                << std::endl
+                << std::endl
+                << std::endl;
+    }
+  }
+  if (!found) {
+    std::cout << "======================================================="
+              << std::endl;
+    std::cout << "Barang dengan kata kunci " << keyword << " tidak ditemukan."
+              << std::endl;
+    std::cout << "======================================================="
+              << std::endl
+              << std::endl
+              << std::endl
+              << std::endl;
+  }
+}
+
+https://replit.com/join/tywbgedqhd-muhammadfachr34

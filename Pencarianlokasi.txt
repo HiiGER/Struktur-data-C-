@@ -1,0 +1,6 @@
+Nama            : Blazers PNB
+kategori        : Outerwear
+lokasi penjual  : Boyolali
+Nama            : Cool Kids
+kategori        : Baju Anak Wanita
+lokasi penjual  : Boyolali

@@ -1,0 +1,64 @@
+Nama            : Uniqlo Dress
+kategori        : Baju Wanita
+Nama            : Cincin Akik
+kategori        : Aksesoris
+Nama            : Nike Airmax
+kategori        : Sepatu pria
+Nama            : Ovale
+kategori        : Skincare
+Nama            : Mothercare
+kategori        : Baju Anak Pria
+Nama            : Ethica
+kategori        : Baju Anak Wanita
+Nama            : Samase
+kategori        : Pakaian Muslim Pria
+Nama            : Pashmina
+kategori        : Hijab
+Nama            : Vallina Outfit
+kategori        : Atasan Muslim Wanita
+Nama            : Sunlifex
+kategori        : Jam Tangan Pria
+Nama            : Guess Watch
+kategori        : Jam Tangan Wanita
+Nama            : Woodka
+kategori        : Jam Tangan Couple
+Nama            : Tas Laptop
+kategori        : Tas Pria
+Nama            : Baju Futsal
+kategori        : Pakaian Olahraga Pria
+Nama            : Baju Zumba
+kategori        : Pakaian Olahraga Wanita
+Nama            : Calvin Klein
+kategori        : Pakaian Dalam
+Nama            : UNICLO SUMMER EDITION
+kategori        : Baju Pria
+Nama            : Miniso
+kategori        : Baju Wanita
+Nama            : Gelang Karet
+kategori        : Aksesoris
+Nama            : Reebook
+kategori        : Sepatu wanita
+Nama            : Wardah
+kategori        : Skincare
+Nama            : Cool Kids
+kategori        : Baju Anak Pria
+Nama            : Hoodie LV
+kategori        : Outerwear
+Nama            : Rabbani
+kategori        : Pakaian Muslim Pria
+Nama            : Kulot
+kategori        : Hijab
+Nama            : Carnia Tunik
+kategori        : Bawahan Muslim Wanita
+Nama            : Rolex
+kategori        : Jam Tangan Pria
+Nama            : iWatch
+kategori        : Jam Tangan Pria
+Nama            : Gucci Watch
+kategori        : Jam Tangan Wanita
+Nama            : Casio
+kategori        : Jam Tangan Couple
+Nama            : Baju Renang
+kategori        : Pakaian Olahraga Pria
+Nama            : Kaos Senam
+kategori        : Pakaian Olahraga Wanita

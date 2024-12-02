@@ -5,4 +5,4 @@
 
 # How to run :
 ## 1. clone this repo 
-## run the main file in your best IDEA
+## 2. run the main file in your best IDEA
